@@ -1,6 +1,6 @@
 # Item API – Spring Boot REST Application
 
-This project is a simple Spring Boot RESTful API developed as part of a freelance Java developer sample task.
+This project is a simple Spring Boot RESTful API.
 It provides basic operations to manage items using in-memory storage.
 
 ## Technology Stack
